@@ -1,4 +1,4 @@
 CordraPy-RDF
 pyld
 jupyter
-PIL
+Pillow
