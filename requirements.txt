@@ -1,3 +1,4 @@
 CordraPy-RDF
 pyld
 jupyter
+PIL
