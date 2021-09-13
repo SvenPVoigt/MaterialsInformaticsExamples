@@ -1,3 +1,3 @@
-CordraPy
+CordraPy-RDF
 pyld
 jupyter
